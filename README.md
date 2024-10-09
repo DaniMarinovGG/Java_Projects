@@ -1,2 +1,2 @@
-# Java_inequalities
-LOL some inequalities
+# Java_Projects
+LOL some random stuff
