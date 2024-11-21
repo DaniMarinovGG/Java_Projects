@@ -1,7 +1,7 @@
 // this program will evaluate the expression (x+y)^n
 // Ex: n=2 -> (x+y)^2 = x^2+2xy+y^2
 // Ex: n=5 -> (x+y)^3 = x^3+3*x^2*y+3*x*y^2+y^3
-
+// Here is a link for more information about the process of calculating the binomial: https://en.wikipedia.org/wiki/Binomial_theorem
 
 import java.util.*;
 
